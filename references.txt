@@ -1,0 +1,11 @@
+[1] Ayres, T. R. & Testerman, L. 1981, ApJ, 245, 1124, doi: 10.1086/177031
+[2] Solanki, S. K., Livingston, W., & Ayres, T. 1994, Science, 263, 64, doi: 10.1126/science.263.5143.6
+[3] Ayres, T. R., & Rabin, D. 1996, ApJ, 460, 1042, doi: 10.1086/177031
+[4] Wedemeyer-Böhm, S., Kamp, I., Freytag, B., Bruls, J., &Steffen, M. 2006, in Astronomical Society of the PacificConference Series, Vol. 354, Solar MHD Theory andObservations: A High Spatial Resolution Perspective, ed.J. Leibacher, R. F. Stein, & H. Uitenbroek, 301
+[5] Wedemeyer-Böhm, S., & Steffen, M. 2007, A&A, 462, L31, doi: 10.1051/0004-6361:20066173
+[6] Ayres, T., Penn, M., Plymate, C., & Keller, C. 2008, inEuropean Solar Physics Meeting, Vol. 12, European SolarPhysics Meeting, 2.74
+[7] Cavallini, F. 2006, SoPh, 236, 415, doi: 10.1007/s11207-006-0103-8
+[8] Fontenla, J. M., Avrett, E. H., & Loeser, R. 1993, ApJ,406, 319, doi: 10.1086/172443
+[9] Vecchio, A., Cauzzi, G., & Reardon, K. P. 2009, A&A, 494,269, doi: 10.1051/0004-6361:20081069
+[10] Ayres, T. R., Plymate, C., & Keller, C. U. 2006, ApJS, 165,618, doi: 10.1086/504847
+[11] Cauzzi, G., Reardon, K. P., Uitenbroek, H., et al. 2008,A&A, 480, 515, doi: 10.1051/0004-6361:2007864
