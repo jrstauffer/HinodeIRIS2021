@@ -6,4 +6,4 @@ acknowledgements.txt: acknowledgements for the many people who helped make this 
 references.txt: a list of references and further reading  
 int_movie.mp4: a movie showing the core intensities of the four observed lines, in addition to the HMI continuum and magnetogram. Pay close attention for the "cold bubbles" as they appear around the edge of the pore!  
 supplemental.pdf: supplemental figures and equations
-manuscript.pdf: manuscript of the paper (in preparation)
+manuscript.pdf: manuscript of the paper (in preparation)  
